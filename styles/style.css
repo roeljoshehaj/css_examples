@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+h1 {
+    color: darkred;
+}
+p {
+    font-size: 20px;
+    color: black;
+}
